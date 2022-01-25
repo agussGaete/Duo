@@ -1,1 +1,1 @@
-var capos = "agus " + " agus";
+//Archivo modificado y actualizado c:
